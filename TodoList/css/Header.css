@@ -1,0 +1,9 @@
+/* 
+    class Header의 하위 h1 element
+    1) color의 속성을 rgb(37, 147, 255)로 적용
+
+*/
+
+.Header > h1 {
+    color: rgb(37, 147, 255);
+}
